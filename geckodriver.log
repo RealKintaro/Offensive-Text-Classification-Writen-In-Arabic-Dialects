@@ -109,3 +109,16 @@ JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3i8L84/yE/l/en_GB/_r-4
 1668289567503	Marionette	INFO	Stopped listening on port 56658
 JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3i-JH4/yq/l/en_GB/0TtmQ5EKOrp-q4o-DvngcS4TMVbUB_6zoFpKBUaeovQV2lZGCHBgo9Ow4VlF1k1vBIPX6FF6-JyY9ZGhisxkZSXzQtfYWysQgo4jrmfJFcFQn956n4uvoCxzzk-xagqHFPiRPpI6GSoQAdLw2efwIlPfk8LeD1yGR54aNBz98ql31qLJ4SZXZl1Vx24mm0KkUkTxT2.js?_nc_x=Ij3Wp8lg5Kz, line 3: Error: Minified React error #185; visit https://reactjs.org/docs/error-decoder.html?invariant=185 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
 JavaScript error: resource://gre/modules/Sqlite.jsm, line 1108: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\makch\AppData\Local\Temp\rust_mozprofileACR0Hm\protections.sqlite
+1668372483283	geckodriver	INFO	Listening on 127.0.0.1:50791
+1668372486316	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--no-sandbox" "--disable-dev-shm-usage" "--ignore-certificate-errors" "--disable-gpu" "--log-level=3" "--disable-notifications" "--disable-popup-blocking" "-no-remote" "-profile" "C:\\Users\\makch\\AppData\\Local\\Temp\\rust_mozprofilelshxZP"
+*** You are running in headless mode.
+1668372487640	Marionette	INFO	Marionette enabled
+1668372487660	Marionette	INFO	Listening on port 50804
+Read port: 50804
+1668372487933	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1668372488020	RemoteAgent	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:50789","noProxy":[],"sslProxy":"127.0.0.1:50789"}
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\makch\\AppData\\Local\\Temp\\rust_mozprofilelshxZP\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3i8L84/yE/l/en_GB/_r-4ZgtYQgp.js?_nc_x=Ij3Wp8lg5Kz, line 40: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1668372629777	Marionette	INFO	Stopped listening on port 50804
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1108: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\makch\AppData\Local\Temp\rust_mozprofilelshxZP\protections.sqlite
