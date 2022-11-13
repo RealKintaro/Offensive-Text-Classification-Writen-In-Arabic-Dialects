@@ -1,0 +1,111 @@
+1666123454550	geckodriver	INFO	Listening on 127.0.0.1:51833
+1666123457579	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--no-sandbox" "--disable-dev-shm-usage" "--ignore-certificate-errors" "--disable-gpu" "--log-level=3" "--disable-notifications" "--disable-popup-blocking" "-no-remote" "-profile" "C:\\Users\\makch\\AppData\\Local\\Temp\\rust_mozprofile8UyJYh"
+*** You are running in headless mode.
+1666123458846	Marionette	INFO	Marionette enabled
+1666123458862	Marionette	INFO	Listening on port 51847
+Read port: 51847
+1666123459224	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1666123459316	RemoteAgent	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:51832","noProxy":[],"sslProxy":"127.0.0.1:51832"}
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\makch\\AppData\\Local\\Temp\\rust_mozprofile8UyJYh\\search.json.mozlz4", (void 0)))
+Shutting down due to socket process crash.
+127.0.0.1:51925
+1666123487163	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--no-sandbox" "--disable-dev-shm-usage" "--ignore-certificate-errors" "--disable-gpu" "--log-level=3" "--disable-notifications" "--disable-popup-blocking" "-no-remote" "-profile" "C:\\Users\\makch\\AppData\\Local\\Temp\\rust_mozprofilensIzdU"
+*** You are running in headless mode.
+1666123488413	Marionette	INFO	Marionette enabled
+1666123488427	Marionette	INFO	Listening on port 51942
+Read port: 51942
+1666123488654	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1666123488730	RemoteAgent	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:51924","noProxy":[],"sslProxy":"127.0.0.1:51924"}
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\makch\\AppData\\Local\\Temp\\rust_mozprofilensIzdU\\search.json.mozlz4", (void 0)))
+console.error: services.settings: 
+  main/partitioning-exempt-urls Signature failed  InvalidSignatureError: Invalid content signature (main/partitioning-exempt-urls)
+console.error: services.settings: 
+  main/partitioning-exempt-urls local data was corrupted
+console.warn: services.settings: main/partitioning-exempt-urls Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/partitioning-exempt-urls Signature failed again InvalidSignatureError: Invalid content signature (main/partitioning-exempt-urls)
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iBNc4/y1/l/en_GB/xRuwKc4dOfo.js?_nc_x=Ij3Wp8lg5Kz, line 54: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1666123762098	Marionette	INFO	Stopped listening on port 51942
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3iO804/yB/l/en_GB/3KJZlV_AqNz.js?_nc_x=Ij3Wp8lg5Kz, line 1083: TypeError: can't access dead object
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3iO804/yB/l/en_GB/3KJZlV_AqNz.js?_nc_x=Ij3Wp8lg5Kz, line 1083: TypeError: can't access dead object
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3iO804/yB/l/en_GB/3KJZlV_AqNz.js?_nc_x=Ij3Wp8lg5Kz, line 1083: TypeError: can't access dead object
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3iO804/yB/l/en_GB/3KJZlV_AqNz.js?_nc_x=Ij3Wp8lg5Kz, line 1083: TypeError: can't access dead object
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3iO804/yB/l/en_GB/3KJZlV_AqNz.js?_nc_x=Ij3Wp8lg5Kz, line 1083: TypeError: can't access dead object
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3iO804/yB/l/en_GB/3KJZlV_AqNz.js?_nc_x=Ij3Wp8lg5Kz, line 1083: TypeError: can't access dead object
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3iO804/yB/l/en_GB/3KJZlV_AqNz.js?_nc_x=Ij3Wp8lg5Kz, line 1083: TypeError: can't access dead object
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3iO804/yB/l/en_GB/3KJZlV_AqNz.js?_nc_x=Ij3Wp8lg5Kz, line 1083: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1108: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\makch\AppData\Local\Temp\rust_mozprofilensIzdU\protections.sqlite
+1666124594891	geckodriver	INFO	Listening on 127.0.0.1:53032
+1666124597852	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--no-sandbox" "--disable-dev-shm-usage" "--ignore-certificate-errors" "--disable-gpu" "--log-level=3" "--disable-notifications" "--disable-popup-blocking" "-no-remote" "-profile" "C:\\Users\\makch\\AppData\\Local\\Temp\\rust_mozprofile9khdNB"
+*** You are running in headless mode.
+1666124599208	Marionette	INFO	Marionette enabled
+1666124599225	Marionette	INFO	Listening on port 53051
+Read port: 53051
+1666124599477	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1666124599555	RemoteAgent	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:53031","noProxy":[],"sslProxy":"127.0.0.1:53031"}
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\makch\\AppData\\Local\\Temp\\rust_mozprofile9khdNB\\search.json.mozlz4", (void 0)))
+console.error: services.settings: 
+  main/partitioning-exempt-urls Signature failed  InvalidSignatureError: Invalid content signature (main/partitioning-exempt-urls)
+console.error: services.settings: 
+  main/partitioning-exempt-urls local data was corrupted
+console.warn: services.settings: main/partitioning-exempt-urls Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/partitioning-exempt-urls Signature failed again InvalidSignatureError: Invalid content signature (main/partitioning-exempt-urls)
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iBNc4/yo/l/en_GB/J760NcKF-nL.js?_nc_x=Ij3Wp8lg5Kz, line 57: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.error: services.settings: 
+  main/partitioning-exempt-urls Signature failed  InvalidSignatureError: Invalid content signature (main/partitioning-exempt-urls)
+console.error: services.settings: 
+  main/partitioning-exempt-urls local data was corrupted
+console.warn: services.settings: main/partitioning-exempt-urls Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/partitioning-exempt-urls Signature failed again InvalidSignatureError: Invalid content signature (main/partitioning-exempt-urls)
+console.error: services.settings: 
+  Message: InvalidSignatureError: Invalid content signature (main/partitioning-exempt-urls)
+  Stack:
+    InvalidSignatureError@resource://services-settings/RemoteSettingsClient.jsm:169:5
+_validateCollectionSignature@resource://services-settings/RemoteSettingsClient.jsm:977:13
+
+1666125202739	Marionette	INFO	Stopped listening on port 53051
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1108: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\makch\AppData\Local\Temp\rust_mozprofile9khdNB\protections.sqlite
+1668184770111	geckodriver	INFO	Listening on 127.0.0.1:60577
+1668184773149	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--no-sandbox" "--disable-dev-shm-usage" "--ignore-certificate-errors" "--disable-gpu" "--log-level=3" "--disable-notifications" "--disable-popup-blocking" "-no-remote" "-profile" "C:\\Users\\makch\\AppData\\Local\\Temp\\rust_mozprofilekbQzhJ"
+*** You are running in headless mode.
+1668184774604	Marionette	INFO	Marionette enabled
+1668184774620	Marionette	INFO	Listening on port 60592
+Read port: 60592
+1668184774922	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1668184775010	RemoteAgent	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:60576","noProxy":[],"sslProxy":"127.0.0.1:60576"}
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\makch\\AppData\\Local\\Temp\\rust_mozprofilekbQzhJ\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3i8L84/yE/l/en_GB/_r-4ZgtYQgp.js?_nc_x=Ij3Wp8lg5Kz, line 40: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+Shutting down due to socket process crash.
+1668184906140	geckodriver	INFO	Listening on 127.0.0.1:60855
+1668184909140	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--no-sandbox" "--disable-dev-shm-usage" "--ignore-certificate-errors" "--disable-gpu" "--log-level=3" "--disable-notifications" "--disable-popup-blocking" "-no-remote" "-profile" "C:\\Users\\makch\\AppData\\Local\\Temp\\rust_mozprofilezvbd7K"
+*** You are running in headless mode.
+1668184910358	Marionette	INFO	Marionette enabled
+1668184910375	Marionette	INFO	Listening on port 60868
+Read port: 60868
+1668184910677	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1668184910766	RemoteAgent	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:60854","noProxy":[],"sslProxy":"127.0.0.1:60854"}
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\makch\\AppData\\Local\\Temp\\rust_mozprofilezvbd7K\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3i8L84/yE/l/en_GB/_r-4ZgtYQgp.js?_nc_x=Ij3Wp8lg5Kz, line 40: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1668186915619	Marionette	INFO	Stopped listening on port 60868
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1108: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\makch\AppData\Local\Temp\rust_mozprofilezvbd7K\protections.sqlite
+1668289344588	geckodriver	INFO	Listening on 127.0.0.1:56643
+1668289347638	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--no-sandbox" "--disable-dev-shm-usage" "--ignore-certificate-errors" "--disable-gpu" "--log-level=3" "--disable-notifications" "--disable-popup-blocking" "-no-remote" "-profile" "C:\\Users\\makch\\AppData\\Local\\Temp\\rust_mozprofileACR0Hm"
+*** You are running in headless mode.
+1668289348805	Marionette	INFO	Marionette enabled
+1668289348820	Marionette	INFO	Listening on port 56658
+Read port: 56658
+1668289349074	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1668289349158	RemoteAgent	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:56642","noProxy":[],"sslProxy":"127.0.0.1:56642"}
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\makch\\AppData\\Local\\Temp\\rust_mozprofileACR0Hm\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3i8L84/yE/l/en_GB/_r-4ZgtYQgp.js?_nc_x=Ij3Wp8lg5Kz, line 40: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1668289567503	Marionette	INFO	Stopped listening on port 56658
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3i-JH4/yq/l/en_GB/0TtmQ5EKOrp-q4o-DvngcS4TMVbUB_6zoFpKBUaeovQV2lZGCHBgo9Ow4VlF1k1vBIPX6FF6-JyY9ZGhisxkZSXzQtfYWysQgo4jrmfJFcFQn956n4uvoCxzzk-xagqHFPiRPpI6GSoQAdLw2efwIlPfk8LeD1yGR54aNBz98ql31qLJ4SZXZl1Vx24mm0KkUkTxT2.js?_nc_x=Ij3Wp8lg5Kz, line 3: Error: Minified React error #185; visit https://reactjs.org/docs/error-decoder.html?invariant=185 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1108: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\makch\AppData\Local\Temp\rust_mozprofileACR0Hm\protections.sqlite
