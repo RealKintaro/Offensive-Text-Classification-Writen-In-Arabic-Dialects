@@ -122,3 +122,230 @@ console.warn: SearchSettings: "get: No settings file exists, new profile?" (new 
 JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3i8L84/yE/l/en_GB/_r-4ZgtYQgp.js?_nc_x=Ij3Wp8lg5Kz, line 40: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
 1668372629777	Marionette	INFO	Stopped listening on port 50804
 JavaScript error: resource://gre/modules/Sqlite.jsm, line 1108: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\makch\AppData\Local\Temp\rust_mozprofilelshxZP\protections.sqlite
+1668879065295	geckodriver	INFO	Listening on 127.0.0.1:55639
+1668879068380	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--no-sandbox" "--disable-dev-shm-usage" "--ignore-certificate-errors" "--disable-gpu" "--log-level=3" "--disable-notifications" "--disable-popup-blocking" "-no-remote" "-profile" "C:\\Users\\makch\\AppData\\Local\\Temp\\rust_mozprofilexiCCyO"
+*** You are running in headless mode.
+1668879069584	Marionette	INFO	Marionette enabled
+1668879069601	Marionette	INFO	Listening on port 55654
+Read port: 55654
+1668879069961	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1668879070084	RemoteAgent	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:55638","noProxy":[],"sslProxy":"127.0.0.1:55638"}
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\makch\\AppData\\Local\\Temp\\rust_mozprofilexiCCyO\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3i8L84/yl/l/en_GB/iQ8jQonxH1D.js?_nc_x=Ij3Wp8lg5Kz, line 40: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3iHSL4/yK/l/en_GB/ROusUOtzbFCIpbu9EP8-pNM9svFyB0C31sDi89DWMDjKimmumuUQgc3XYChm1I86GNwv1ECEvD568Oq3qgQN89rBpUW3-kuSv4R.js?_nc_x=Ij3Wp8lg5Kz, line 781: IndexSizeError: Index or size is negative or greater than the allowed amount
+1668879416962	Marionette	INFO	Stopped listening on port 55654
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3ixMy4/yT/l/en_GB/0TtmQ5EKOrpmVzSye1uCs84TMVbUB_6zogJvyOBE5W2cmiOSlDi7WlnSconBjFSuFn8e9vexq2rST64JQRFbO23nxokrZu8Yals-yv9sBXjmw9DpLxzFMOdeYmvslsdGPGZcPVswF2dcNAVLeD1yGR54aN7W-f8peiFYAuurM2E3md9SV1KcukWgB6eWP-dWGQlCnH8MzPgjy0BamSHEUxw3SOAw.js?_nc_x=Ij3Wp8lg5Kz, line 3: Error: Minified React error #185; visit https://reactjs.org/docs/error-decoder.html?invariant=185 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: resource://gre/modules/Sqlite.sys.mjs, line 1106: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\makch\AppData\Local\Temp\rust_mozprofilexiCCyO\protections.sqlite
+1668882902812	geckodriver	INFO	Listening on 127.0.0.1:58418
+1668882905854	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--no-sandbox" "--disable-dev-shm-usage" "--ignore-certificate-errors" "--disable-gpu" "--log-level=3" "--disable-notifications" "--disable-popup-blocking" "-no-remote" "-profile" "C:\\Users\\makch\\AppData\\Local\\Temp\\rust_mozprofileMuTxVl"
+*** You are running in headless mode.
+1668882906446	Marionette	INFO	Marionette enabled
+1668882906454	Marionette	INFO	Listening on port 58432
+Read port: 58432
+1668882906585	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1668882906658	RemoteAgent	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:58417","noProxy":[],"sslProxy":"127.0.0.1:58417"}
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\makch\\AppData\\Local\\Temp\\rust_mozprofileMuTxVl\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3i8L84/yl/l/en_GB/iQ8jQonxH1D.js?_nc_x=Ij3Wp8lg5Kz, line 40: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1668882924371	Marionette	INFO	Stopped listening on port 58432
+WARNING: At least one completion condition is taking too long to complete. Conditions: [{"name":"ContentParent: id=1c5ee047c00","state":{"remoteTypePrefix":"webIsolated"},"filename":"/builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp","lineNumber":3798,"stack":["resource://gre/modules/nsAsyncShutdown.jsm:addBlocker:164"]}] Barrier: profile-before-change
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3ikq64/yE/l/en_GB/lWKKy6rVIQn4TMVbUB_6zogJvyOBE5W2c0axzPZ54WQ38e9vexq2rST64JQRFbO23n-yv9sBXjmw9LeD1yGR54aNuurM2E3md9SJgb4OqBO3_wxe4nebKolmtV1KcukWgB6e.js?_nc_x=Ij3Wp8lg5Kz, line 4: Error: Minified React error #185; visit https://reactjs.org/docs/error-decoder.html?invariant=185 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: resource://gre/modules/Sqlite.sys.mjs, line 1106: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\makch\AppData\Local\Temp\rust_mozprofileMuTxVl\protections.sqlite
+1668883159373	geckodriver	INFO	Listening on 127.0.0.1:58736
+1668883162394	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--no-sandbox" "--disable-dev-shm-usage" "--ignore-certificate-errors" "--disable-gpu" "--log-level=3" "--disable-notifications" "--disable-popup-blocking" "-no-remote" "-profile" "C:\\Users\\makch\\AppData\\Local\\Temp\\rust_mozprofileaRtwtp"
+*** You are running in headless mode.
+1668883162924	Marionette	INFO	Marionette enabled
+1668883162930	Marionette	INFO	Listening on port 58749
+Read port: 58749
+1668883163071	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1668883163138	RemoteAgent	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:58735","noProxy":[],"sslProxy":"127.0.0.1:58735"}
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\makch\\AppData\\Local\\Temp\\rust_mozprofileaRtwtp\\search.json.mozlz4", (void 0)))
+1668886164604	Marionette	INFO	Stopped listening on port 58749
+WARNING: At least one completion condition is taking too long to complete. Conditions: [{"name":"ContentParent: id=1f20552ba00","state":{"remoteTypePrefix":"webIsolated"},"filename":"/builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp","lineNumber":3798,"stack":["resource://gre/modules/nsAsyncShutdown.jsm:addBlocker:164"]}] Barrier: profile-before-change
+console.error: (new Error("SessionFile is closed", "resource:///modules/sessionstore/SessionFile.jsm", 380))
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+JavaScript error: resource://gre/modules/Sqlite.sys.mjs, line 1106: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\makch\AppData\Local\Temp\rust_mozprofileaRtwtp\protections.sqlite
+1668886258742	geckodriver	INFO	Listening on 127.0.0.1:56709
+1668886261798	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--no-sandbox" "--disable-dev-shm-usage" "--ignore-certificate-errors" "--disable-gpu" "--log-level=3" "--disable-notifications" "--disable-popup-blocking" "-no-remote" "-profile" "C:\\Users\\makch\\AppData\\Local\\Temp\\rust_mozprofiletYjB1f"
+*** You are running in headless mode.
+1668886262593	Marionette	INFO	Marionette enabled
+1668886262601	Marionette	INFO	Listening on port 56725
+Read port: 56725
+1668886262743	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1668886262809	RemoteAgent	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:56708","noProxy":[],"sslProxy":"127.0.0.1:56708"}
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\makch\\AppData\\Local\\Temp\\rust_mozprofiletYjB1f\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3i8L84/yl/l/en_GB/iQ8jQonxH1D.js?_nc_x=Ij3Wp8lg5Kz, line 40: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1668886379090	Marionette	INFO	Stopped listening on port 56725
+1668886501250	geckodriver	INFO	Listening on 127.0.0.1:57089
+1668886504271	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--no-sandbox" "--disable-dev-shm-usage" "--ignore-certificate-errors" "--disable-gpu" "--log-level=3" "--disable-notifications" "--disable-popup-blocking" "-no-remote" "-profile" "C:\\Users\\makch\\AppData\\Local\\Temp\\rust_mozprofileQUXMj3"
+*** You are running in headless mode.
+1668886505377	Marionette	INFO	Marionette enabled
+1668886505388	Marionette	INFO	Listening on port 57102
+Read port: 57102
+1668886505570	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1668886505693	RemoteAgent	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:57088","noProxy":[],"sslProxy":"127.0.0.1:57088"}
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\makch\\AppData\\Local\\Temp\\rust_mozprofileQUXMj3\\search.json.mozlz4", (void 0)))
+console.error: services.settings: 
+  main/public-suffix-list Signature failed  InvalidSignatureError: Invalid content signature (main/public-suffix-list)
+console.error: services.settings: 
+  main/public-suffix-list local data was corrupted
+console.warn: services.settings: main/public-suffix-list Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/public-suffix-list Signature failed again InvalidSignatureError: Invalid content signature (main/public-suffix-list)
+console.error: services.settings: 
+  Message: InvalidSignatureError: Invalid content signature (main/public-suffix-list)
+  Stack:
+    InvalidSignatureError@resource://services-settings/RemoteSettingsClient.jsm:169:5
+_validateCollectionSignature@resource://services-settings/RemoteSettingsClient.jsm:977:13
+
+console.error: services.settings: 
+  main/pioneer-study-addons-v1 Signature failed  InvalidSignatureError: Invalid content signature (main/pioneer-study-addons-v1)
+console.error: services.settings: 
+  main/pioneer-study-addons-v1 local data was corrupted
+console.warn: services.settings: main/pioneer-study-addons-v1 Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/pioneer-study-addons-v1 Signature failed again InvalidSignatureError: Invalid content signature (main/pioneer-study-addons-v1)
+console.error: services.settings: 
+  Message: InvalidSignatureError: Invalid content signature (main/pioneer-study-addons-v1)
+  Stack:
+    InvalidSignatureError@resource://services-settings/RemoteSettingsClient.jsm:169:5
+_validateCollectionSignature@resource://services-settings/RemoteSettingsClient.jsm:977:13
+
+console.error: services.settings: 
+  main/doh-providers Signature failed  InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  main/doh-providers local data was corrupted
+console.warn: services.settings: main/doh-providers Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/doh-providers Signature failed again InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  Message: InvalidSignatureError: Invalid content signature (main/doh-providers)
+  Stack:
+    InvalidSignatureError@resource://services-settings/RemoteSettingsClient.jsm:169:5
+_validateCollectionSignature@resource://services-settings/RemoteSettingsClient.jsm:977:13
+
+console.error: services.settings: 
+  main/addons-manager-settings Signature failed  InvalidSignatureError: Invalid content signature (main/addons-manager-settings)
+console.error: services.settings: 
+  main/addons-manager-settings local data was corrupted
+console.warn: services.settings: main/addons-manager-settings Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/addons-manager-settings Signature failed again InvalidSignatureError: Invalid content signature (main/addons-manager-settings)
+console.error: services.settings: 
+  Message: InvalidSignatureError: Invalid content signature (main/addons-manager-settings)
+  Stack:
+    InvalidSignatureError@resource://services-settings/RemoteSettingsClient.jsm:169:5
+_validateCollectionSignature@resource://services-settings/RemoteSettingsClient.jsm:977:13
+
+console.error: services.settings: 
+  main/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/doh-config Signature failed again InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  Message: InvalidSignatureError: Invalid content signature (main/doh-config)
+  Stack:
+    InvalidSignatureError@resource://services-settings/RemoteSettingsClient.jsm:169:5
+_validateCollectionSignature@resource://services-settings/RemoteSettingsClient.jsm:977:13
+
+Shutting down due to socket process crash.
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+JavaScript error: chrome://global/content/elements/browser-custom-element.js, line 1610: Error: permitUnload is already running for this tab.
+1668886986424	geckodriver	INFO	Listening on 127.0.0.1:57756
+1668886989445	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--no-sandbox" "--disable-dev-shm-usage" "--ignore-certificate-errors" "--disable-gpu" "--log-level=3" "--disable-notifications" "--disable-popup-blocking" "-no-remote" "-profile" "C:\\Users\\makch\\AppData\\Local\\Temp\\rust_mozprofilephp2xW"
+*** You are running in headless mode.
+1668886990085	Marionette	INFO	Marionette enabled
+1668886990093	Marionette	INFO	Listening on port 57772
+Read port: 57772
+1668886990235	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1668886990310	RemoteAgent	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:57755","noProxy":[],"sslProxy":"127.0.0.1:57755"}
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\makch\\AppData\\Local\\Temp\\rust_mozprofilephp2xW\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3i8L84/yl/l/en_GB/iQ8jQonxH1D.js?_nc_x=Ij3Wp8lg5Kz, line 40: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.error: services.settings: 
+  main/doh-providers Signature failed  InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  main/doh-providers local data was corrupted
+console.warn: services.settings: main/doh-providers Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/doh-providers Signature failed again InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  Message: InvalidSignatureError: Invalid content signature (main/doh-providers)
+  Stack:
+    InvalidSignatureError@resource://services-settings/RemoteSettingsClient.jsm:169:5
+_validateCollectionSignature@resource://services-settings/RemoteSettingsClient.jsm:977:13
+
+console.error: services.settings: 
+  main/addons-manager-settings Signature failed  InvalidSignatureError: Invalid content signature (main/addons-manager-settings)
+console.error: services.settings: 
+  main/addons-manager-settings local data was corrupted
+console.warn: services.settings: main/addons-manager-settings Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/addons-manager-settings Signature failed again InvalidSignatureError: Invalid content signature (main/addons-manager-settings)
+console.error: services.settings: 
+  Message: InvalidSignatureError: Invalid content signature (main/addons-manager-settings)
+  Stack:
+    InvalidSignatureError@resource://services-settings/RemoteSettingsClient.jsm:169:5
+_validateCollectionSignature@resource://services-settings/RemoteSettingsClient.jsm:977:13
+
+console.error: services.settings: 
+  main/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/doh-config Signature failed again InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  Message: InvalidSignatureError: Invalid content signature (main/doh-config)
+  Stack:
+    InvalidSignatureError@resource://services-settings/RemoteSettingsClient.jsm:169:5
+_validateCollectionSignature@resource://services-settings/RemoteSettingsClient.jsm:977:13
+
+console.error: services.settings: 
+  main/public-suffix-list Signature failed  InvalidSignatureError: Invalid content signature (main/public-suffix-list)
+console.error: services.settings: 
+  main/public-suffix-list local data was corrupted
+console.warn: services.settings: main/public-suffix-list Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/public-suffix-list Signature failed again InvalidSignatureError: Invalid content signature (main/public-suffix-list)
+console.error: services.settings: 
+  Message: InvalidSignatureError: Invalid content signature (main/public-suffix-list)
+  Stack:
+    InvalidSignatureError@resource://services-settings/RemoteSettingsClient.jsm:169:5
+_validateCollectionSignature@resource://services-settings/RemoteSettingsClient.jsm:977:13
+
+console.error: services.settings: 
+  main/pioneer-study-addons-v1 Signature failed  InvalidSignatureError: Invalid content signature (main/pioneer-study-addons-v1)
+console.error: services.settings: 
+  main/pioneer-study-addons-v1 local data was corrupted
+console.warn: services.settings: main/pioneer-study-addons-v1 Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/pioneer-study-addons-v1 Signature failed again InvalidSignatureError: Invalid content signature (main/pioneer-study-addons-v1)
+console.error: services.settings: 
+  Message: InvalidSignatureError: Invalid content signature (main/pioneer-study-addons-v1)
+  Stack:
+    InvalidSignatureError@resource://services-settings/RemoteSettingsClient.jsm:169:5
+_validateCollectionSignature@resource://services-settings/RemoteSettingsClient.jsm:977:13
+
+1668888992464	Marionette	INFO	Stopped listening on port 57772
+JavaScript error: resource://gre/modules/Sqlite.sys.mjs, line 1106: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\makch\AppData\Local\Temp\rust_mozprofilephp2xW\protections.sqlite
+1668959441054	geckodriver	INFO	Listening on 127.0.0.1:58038
+1668959444105	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--no-sandbox" "--disable-dev-shm-usage" "--ignore-certificate-errors" "--disable-gpu" "--log-level=3" "--disable-notifications" "--disable-popup-blocking" "-no-remote" "-profile" "C:\\Users\\makch\\AppData\\Local\\Temp\\rust_mozprofileu8p1Mw"
+*** You are running in headless mode.
+1668959444693	Marionette	INFO	Marionette enabled
+1668959444701	Marionette	INFO	Listening on port 58051
+Read port: 58051
+1668959444858	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1668959444999	RemoteAgent	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:58037","noProxy":[],"sslProxy":"127.0.0.1:58037"}
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\makch\\AppData\\Local\\Temp\\rust_mozprofileu8p1Mw\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3i8L84/yl/l/en_GB/iQ8jQonxH1D.js?_nc_x=Ij3Wp8lg5Kz, line 40: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1668959600029	Marionette	INFO	Stopped listening on port 58051
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3iA2U4/y5/l/en_GB/gXIkvKySvHd4TMVbUB_6zogJvyOBE5W2c0axzPZ54WQ38e9vexq2rSTf7wmdWbpexPVTVOPyB2sCKLeD1yGR54aNJgb4OqBO3_wy4Ev-QEZrV2V1KcukWgB6e-TRkOe-8Gk1.js?_nc_x=Ij3Wp8lg5Kz, line 3: Error: Minified React error #185; visit https://reactjs.org/docs/error-decoder.html?invariant=185 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: resource://gre/modules/Sqlite.sys.mjs, line 1106: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\makch\AppData\Local\Temp\rust_mozprofileu8p1Mw\protections.sqlite
