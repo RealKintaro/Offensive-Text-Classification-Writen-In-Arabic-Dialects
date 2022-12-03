@@ -349,3 +349,23 @@ JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3i8L84/yl/l/en_GB/iQ8j
 1668959600029	Marionette	INFO	Stopped listening on port 58051
 JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3iA2U4/y5/l/en_GB/gXIkvKySvHd4TMVbUB_6zogJvyOBE5W2c0axzPZ54WQ38e9vexq2rSTf7wmdWbpexPVTVOPyB2sCKLeD1yGR54aNJgb4OqBO3_wy4Ev-QEZrV2V1KcukWgB6e-TRkOe-8Gk1.js?_nc_x=Ij3Wp8lg5Kz, line 3: Error: Minified React error #185; visit https://reactjs.org/docs/error-decoder.html?invariant=185 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
 JavaScript error: resource://gre/modules/Sqlite.sys.mjs, line 1106: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\makch\AppData\Local\Temp\rust_mozprofileu8p1Mw\protections.sqlite
+1668979029595	geckodriver	INFO	Listening on 127.0.0.1:56553
+1668979032633	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--no-sandbox" "--disable-dev-shm-usage" "--ignore-certificate-errors" "--disable-gpu" "--log-level=3" "--disable-notifications" "--disable-popup-blocking" "-no-remote" "-profile" "C:\\Users\\makch\\AppData\\Local\\Temp\\rust_mozprofileSvO4lL"
+*** You are running in headless mode.
+1668979033276	Marionette	INFO	Marionette enabled
+1668979033285	Marionette	INFO	Listening on port 56570
+Read port: 56570
+1668979033686	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1668979033688	RemoteAgent	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:56552","noProxy":[],"sslProxy":"127.0.0.1:56552"}
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\makch\\AppData\\Local\\Temp\\rust_mozprofileSvO4lL\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3i8L84/yl/l/en_GB/iQ8jQonxH1D.js?_nc_x=Ij3Wp8lg5Kz, line 40: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1668979291953	Marionette	INFO	Stopped listening on port 56570
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3ih1A4/yw/l/en_GB/-JmGc2rDo2U.js?_nc_x=Ij3Wp8lg5Kz, line 1077: TypeError: can't access dead object
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3ih1A4/yw/l/en_GB/-JmGc2rDo2U.js?_nc_x=Ij3Wp8lg5Kz, line 1077: TypeError: can't access dead object
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3ih1A4/yw/l/en_GB/-JmGc2rDo2U.js?_nc_x=Ij3Wp8lg5Kz, line 1077: TypeError: can't access dead object
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3ih1A4/yw/l/en_GB/-JmGc2rDo2U.js?_nc_x=Ij3Wp8lg5Kz, line 1077: TypeError: can't access dead object
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3ih1A4/yw/l/en_GB/-JmGc2rDo2U.js?_nc_x=Ij3Wp8lg5Kz, line 1077: TypeError: can't access dead object
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3ih1A4/yw/l/en_GB/-JmGc2rDo2U.js?_nc_x=Ij3Wp8lg5Kz, line 1077: TypeError: can't access dead object
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3ih1A4/yw/l/en_GB/-JmGc2rDo2U.js?_nc_x=Ij3Wp8lg5Kz, line 1077: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/Sqlite.sys.mjs, line 1106: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\makch\AppData\Local\Temp\rust_mozprofileSvO4lL\protections.sqlite
