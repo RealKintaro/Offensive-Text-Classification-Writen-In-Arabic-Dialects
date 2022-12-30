@@ -17,7 +17,11 @@ Demonization, on the other hand, involves portraying a group as superhuman, like
  - Racism
  - Sexism (Misogyny,Misandry)
  - Islamophobia
+ 
+ <a href="https://items.ssrc.org/disinformation-democracy-and-conflict-prevention/classifying-and-identifying-the-intensity-of-hate-speech/"> Source </a>
 
-### - Violence and incitement
-While dehumanization and demonization characterize groups of people in extremely negative ways, they do not outright call for violence against them. However, another notable typology of hate speech involves incitement to violence. This involves calling for the physical harm of a group, or even the death of a group. This is often done in the form of a call to arms, or a call to action.
+## - Varbal abuse
 
+Verbal abuse (also known as verbal aggression, verbal attack, verbal violence, verbal assault, psychic aggression, or psychic violence) is a type of psychological/mental abuse that involves the use of oral, gestured, and written language directed to a victim. Verbal abuse can include the act of harassing, labeling, insulting, scolding, rebuking, or excessive yelling towards an individual. It can also include the use of derogatory terms, the delivery of statements intended to frighten, humiliate, denigrate, or belittle a person. These kinds of attacks may result in mental and/or emotional distress for the victim.
+
+ <a href="https://en.wikipedia.org/wiki/Verbal_abuse"> Source </a>
