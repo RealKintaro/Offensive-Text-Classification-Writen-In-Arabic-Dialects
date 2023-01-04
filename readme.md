@@ -16,7 +16,7 @@ Dehumanization involves belittling groups and equating them to culturally despis
 Demonization, on the other hand, involves portraying a group as superhuman, like a monster, robot, or even fatal diseases like cancer that are a mortal threat to the in-group.
  - Racism
  - Sexism (Misogyny,Misandry)
- - Islamophobia
+ - religion off (againt religion)
  
  <a href="https://items.ssrc.org/disinformation-democracy-and-conflict-prevention/classifying-and-identifying-the-intensity-of-hate-speech/"> Source </a>
 
