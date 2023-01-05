@@ -20,7 +20,7 @@ Demonization, on the other hand, involves portraying a group as superhuman, like
  
  <a href="https://items.ssrc.org/disinformation-democracy-and-conflict-prevention/classifying-and-identifying-the-intensity-of-hate-speech/"> Source </a>
 
-## - Varbal abuse
+## - Verbal abuse
 
 Verbal abuse (also known as verbal aggression, verbal attack, verbal violence, verbal assault, psychic aggression, or psychic violence) is a type of psychological/mental abuse that involves the use of oral, gestured, and written language directed to a victim. Verbal abuse can include the act of harassing, labeling, insulting, scolding, rebuking, or excessive yelling towards an individual. It can also include the use of derogatory terms, the delivery of statements intended to frighten, humiliate, denigrate, or belittle a person. These kinds of attacks may result in mental and/or emotional distress for the victim.
 
