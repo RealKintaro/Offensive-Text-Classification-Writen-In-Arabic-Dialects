@@ -157,14 +157,14 @@ def geolocate(country):
 
 st.title("Arabic Hate Speech Detection")
 
-st.write("This app detects hate speech in Arabic tweets")
+st.write("This app detects hate speech in Arabic dialect text")
 
 st.write("Please enter your text below")
 
 
 # Session state
 if 'Loaded' not in st.session_state:
-    print('Loading model ysk')
+    st.markdown('# Loading models')
     st.session_state['Loaded'] = False
 else:
     print('Model already loaded')
@@ -267,9 +267,9 @@ if st.session_state['Loaded'] == False:
 
     st.session_state['Loaded'] = True
 
-text = st.text_area("Enter Text", "Type Here")
+text = st.text_area("Enter Text")
 
-if st.button("Predict"):
+if st.button("Predict") and text != '':
     result = predict(text = text, device = device,
                     offensive_model= st.session_state['Offensive_model'],
                     offensive_tokenizer= st.session_state['Offensive_tokenizer'],
@@ -294,3 +294,6 @@ if st.button("Predict"):
     # map with contry highlited
     location = pd.DataFrame({'lat': [location[0]], 'lon': [location[1]]})
     st.map(data= location , zoom=5)
+    
+elif text == '':
+    st.write('Please enter text to predict')
