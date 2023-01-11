@@ -1,12 +1,8 @@
 import re
 import string
-import random
-import time
-import gc
-import pickle
-
 import nltk
 nltk.download('stopwords')
+
 
 arabic_stopwords = set(nltk.corpus.stopwords.words("arabic"))
 
